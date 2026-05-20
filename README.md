@@ -1,0 +1,1 @@
+# get-cpa-json-on-chatpgt-or-codex-page
