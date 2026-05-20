@@ -1,6 +1,6 @@
-#1 在chatgpt聊天页面或者codex页面登录后按F12打开console选项卡
-#2 复制下方代码粘贴回车，页面右下角会出现按钮
-#3 点击按钮获取信息，下载JSON
+# 1 在chatgpt聊天页面或者codex页面登录后按F12打开console选项卡
+# 2 复制下方代码粘贴回车，页面右下角会出现按钮
+# 3 点击按钮获取信息，下载JSON
 
 
   const PANEL_ID = "gpt-session2cpa-userscript-root";
